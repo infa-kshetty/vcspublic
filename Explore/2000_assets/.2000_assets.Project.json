@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "7WDC3V5uA7ufeS5TZsDtI8",
+    "name" : "2000_assets",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-01-16T07:54:44.001Z",
+  "objectRefs" : [ ]
+}
